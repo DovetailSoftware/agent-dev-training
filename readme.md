@@ -1,9 +1,9 @@
 Dovetail Agent Developer Training
 =================================
 
-Dovetail Agent is a contemporary web application that replaces the legacy Clarify Classic Client. It brings the power of modern web technologies to your existing Clarify system. This is a collection of developer training pages we've created to help out Dovetail customers wishing to customize this product.
+Dovetail Agent is a contemporary web application that replaces the legacy Clarify Classic Client. It brings the power of modern web technologies to your existing Clarify system. This repository contains learning materials targeting developers who are implmenting Dovetail Agent.
 
-This repository is dedicated to learning materials targeting developers implmenting Doveatil Agent.
+Please start in our [wiki](https://github.com/DovetailSoftware/agent-dev-training/wiki/Customization-Best-Practices)
 
-### [Getting Started](https://github.com/DovetailSoftware/agent-dev-training/wiki/Home)
+### [Getting Started](https://github.com/DovetailSoftware/agent-dev-training/wiki)
 
