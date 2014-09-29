@@ -5,5 +5,5 @@ Dovetail Agent is a contemporary web application that replaces the legacy Clarif
 
 This repository is dedicated to learning materials targeting developers implmenting Doveatil Agent.
 
-### [Getting Started](https://github.com/DovetailSoftware/agent-dev-training/wiki/Getting-Started)
+### [Getting Started](https://github.com/DovetailSoftware/agent-dev-training/wiki/Home)
 
